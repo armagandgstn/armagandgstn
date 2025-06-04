@@ -1,14 +1,36 @@
-# 👋 Hi, I'm Armağan Dağıstan
+# Armağan Dağıstan
 
-🎓 Mechanical Engineer & Physicist | 🧠 AI & ML Enthusiast | 💻 Python • C++ • VTK • ROS
+**Mechanical Engineer & Physicist | AI & ML Enthusiast | Python, C++, VTK, ROS**
 
-I'm a multidisciplinary engineer passionate about solving real-world problems using machine learning and data analysis.
+---
 
-🔬 Currently working on:
-- Thermoelectric material property prediction using Random Forest
-- 3D mesh repair and optimization with VTK
-- Object placement algorithms for 3D printing
+📍 Turkey, Ankara  
+📧 armagandgstn@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/arma%C4%9Fan-da%C4%9F%C4%B1stan-5529a323a/) | [GitHub](https://github.com/armagandgstn)  
 
-🧠 Interested in NLP, Computer Vision, and Scientific Computing.
+---
 
-📫 Contact: armagandgstn@gmail.com
+## About Me
+
+I am a multidisciplinary engineer with a background in Mechanical Engineering and Physics, passionate about solving complex real-world problems through machine learning, data analysis, and scientific computing. I combine analytical thinking, hands-on engineering, and programming skills to deliver innovative solutions in AI and deep learning domains.
+
+Currently pursuing my M.Sc. in Physics at Gazi University (thesis phase), after completing a second bachelor's degree in Physics at METU. Experienced in Python, C++, and libraries such as PyTorch and Scikit-learn, I focus on applications in materials science, NLP, and computer vision.
+
+---
+
+## Skills
+
+- **Programming Languages:** Python, C++, MATLAB, SQL  
+- **Tools & Libraries:** Git, ROS, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, OpenCV, SolidWorks, SolidCAM  
+- **Techniques:** Supervised Learning, Feature Engineering, Data Normalization, Visualization, 3D Modeling & Mesh Processing  
+
+---
+
+## Contact
+
+Feel free to reach out for collaborations, questions, or opportunities:  
+📧 armagandgstn@gmail.com
+
+---
+
+Thank you for visiting my profile!  
