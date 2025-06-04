@@ -20,8 +20,8 @@ Currently pursuing my M.Sc. in Physics at Gazi University (thesis phase), after 
 
 ## Skills
 
-- **Programming Languages:** Python, C++, MATLAB, SQL  
-- **Tools & Libraries:** Git, ROS, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, OpenCV, SolidWorks, SolidCAM  
+- **Programming Languages:** Python, C++, MATLAB, SQL , ROS,
+- **Tools & Libraries:** Git, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, OpenCV  
 - **Techniques:** Supervised Learning, Feature Engineering, Data Normalization, Visualization, 3D Modeling & Mesh Processing  
 
 ---
