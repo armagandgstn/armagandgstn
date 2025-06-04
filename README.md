@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Armağan Dağıstan
 
-<!--
-**armagandgstn/armagandgstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineer & Physicist | 🧠 AI & ML Enthusiast | 💻 Python • C++ • VTK • ROS
 
-Here are some ideas to get you started:
+I'm a multidisciplinary engineer passionate about solving real-world problems using machine learning and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Currently working on:
+- Thermoelectric material property prediction using Random Forest
+- 3D mesh repair and optimization with VTK
+- Object placement algorithms for 3D printing
+
+🧠 Interested in NLP, Computer Vision, and Scientific Computing.
+
+📫 Contact: armagandgstn@gmail.com
