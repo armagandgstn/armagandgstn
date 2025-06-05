@@ -6,7 +6,7 @@
 
 📍 Turkey, Ankara  
 📧 armagandgstn@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/arma%C4%9Fan-da%C4%9F%C4%B1stan-5529a323a/) | [GitHub](https://github.com/armagandgstn)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arma%C4%9Fan-da%C4%9F%C4%B1stan-5529a323a/) |  
 
 ---
 
